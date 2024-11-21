@@ -1,7 +1,7 @@
 const app = require("./src/app");
 const connectDB = require("./src/utils/db");
 
-const PORT = 5000;
+const PORT = 3000;
 
 // Conectando ao banco de dados
 connectDB();
